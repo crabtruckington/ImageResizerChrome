@@ -16,7 +16,7 @@
 //==============================================================================
 //    Author: Crab Truckington
 //    Originalm Author: Eliot van Uytfanghe
-//    Site: EliotVU.com
+//    Site: https://github.com/crabtruckington/ImageResizerChrome
 //==============================================================================
 
 var preferences = {

@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
-    "name": "image-resizer",
-    "version": "1.7.2",    
+    "name": "Image Resizer",
+    "version": "1",    
     "description": "Resize/Scale any image on the web by dragging at an image!",
     "options_ui": {
         "page": "options.html",
