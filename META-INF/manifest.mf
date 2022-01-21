@@ -1,0 +1,47 @@
+Manifest-Version: 1.0
+
+Name: icon-x64.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: a3hu6KP7UKWH/rm1fqQNxQ==
+SHA1-Digest: o9hRsxfPacaCiLPvkZJluyhgYZU=
+
+Name: manifest.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 6L3ekX7RA8Ew3GJvUFZ1qg==
+SHA1-Digest: 0wAoxys5/4RcezcgjzLYaUrngAI=
+
+Name: options.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: pdZD/apvnuGa8Lx08B3iFA==
+SHA1-Digest: Y4c0/F6ApUM2KmTVd/pa8S+xIEw=
+
+Name: options.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ISetN6SAa3oYRmmmOyUoZw==
+SHA1-Digest: gIHpQOnlp/2gEAhzQ4j8DLhoDvc=
+
+Name: README.md
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: KQ/N0zsgUX3JHV5tWKnqcQ==
+SHA1-Digest: 5ZO1H9kYnSO1OJRv8cYKUjuuAjE=
+
+Name: data/imageResizer.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: /naGrFqbEh4tuMjXTM9rCA==
+SHA1-Digest: jwyAzu66qGsfBWRp1eZa5dN08LE=
+
+Name: data/imageResizer.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 3krUX1FKzt3AwUyMznlzbQ==
+SHA1-Digest: uSNDkaiqV+xByrwqglNj4pqR/Wk=
+
+Name: data/jquery-2.2.4.min.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: L2sRp+kUcY4CkEEOhTZv6Q==
+SHA1-Digest: abtp4lyn1e8JNTF1hOYVPz/ZqIw=
+
+Name: lib/main.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: lR8LPwwZm5IxCRZx4Dg07A==
+SHA1-Digest: qe0MHk0pM3sx+W/rgcvkIwivfjc=
+
