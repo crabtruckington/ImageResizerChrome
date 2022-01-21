@@ -1,11 +1,18 @@
 Image Resizer/Scaler
 =====
 Copyright 2021-2022 Crab Truckington
+
 Copyright 2012-2017 Eliot van Uytfanghe
 
 Image Resizer/Scaler is an add-on for Chrome, which adds the ability to resize any image on the web by dragging the image!
 
 This has been modified from a Firefox addon, which is available at: https://addons.mozilla.org/en-US/firefox/addon/image-resizer/versions/
+
+Installation
+=====
+Download the repo to a local folder, then go to the Chrome Extension management page, enable developer mode, and choose that local folder as the extension path.
+
+Sorry for the convoluted process, but im not paying google 5 dollars to upload this to their store.
 
 License
 =====
