@@ -14,9 +14,8 @@
 //    You should have received a copy of the GNU Lesser General Public License
 //    along with Image Resizer/Scaler.  If not, see <http://www.gnu.org/licenses/>.
 //==============================================================================
-//    Author: Crab Truckington
-//    Originalm Author: Eliot van Uytfanghe
-//    Site: https://github.com/crabtruckington/ImageResizerChrome
+//    Author: Eliot van Uytfanghe
+//    Site: EliotVU.com
 //==============================================================================
 
 var preferences = {
@@ -498,11 +497,10 @@ function updatePrefs(res) {
     imageResizer.dragKey = preferences.mouseDragButton ? 3 : 1;
 }
 
-//chrome.storage.sync.get('preferences').then(updatePrefs);
-chrome.storage.sync.get('preferences', updatePrefs);
+chrome.storage.sync.get('preferences').then(updatePrefs);
 
 // FIXME: Web-extension context error!
-// chrome.storage.onChanged.addListener((changes) => {
+// browser.storage.onChanged.addListener((changes) => {
 //     var changedPrefs = {};
 //     for (let key in changes) {
 //         changedPrefs[key] = changes[key].newValue;
